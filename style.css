@@ -46,25 +46,18 @@ main {
   margin-right: 0;
 }
 
-.title {
+.step-num {
   background-color: #ff9a4b;
   position: absolute;
   top: 0;
   left: 0;
+  color: #fff;
 }
 
-
-.contents-title {
-  color: #ffffff;
-}
 
 h3 {
   margin: 5px 0;
 }
-
-
-  
-
 
 footer {
   width: 100%;
